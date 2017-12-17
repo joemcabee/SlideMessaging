@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="primary">#2196F3</color>
+	<!--<color name="primaryDark">#1976D2</color>
+	<color name="accent">#96d1ff</color>-->
+  <color name="primaryDark">#0367B4</color>
+  <color name="accent">#77BEF5</color>
+  <color name="opposite">#FF9A13</color>
+	<color name="window_background">#F5F5F5</color>
+  <color name="accent_foreground">#054C83</color>
+</resources>
